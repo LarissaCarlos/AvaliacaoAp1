@@ -1,0 +1,4 @@
+git status - ver os arquivos que eu criei que estão dentro da pasta
+git add . - para adicionar os arquivos que eu criei no git
+git commit -m"" - para mandar para o servidor com uma mensagenzinha
+git push - enviar para o servidor do git e ficar salvo no meu github
